@@ -1,4 +1,4 @@
-start_id,start_label,end_id,end_label,relation
+:START_ID,:START_LABEL,:END_ID,:END_LABEL,:TYPE
 1,Process,2,Process,SUPPLIES
 2,Process,3,Process,PROCESSES
 3,Process,4,Process,SENDS_TO
