@@ -1,0 +1,12 @@
+start_id,start_label,end_id,end_label,relation
+1,Process,2,Process,SUPPLIES
+2,Process,3,Process,PROCESSES
+3,Process,4,Process,SENDS_TO
+4,Process,5,Process,ASSEMBLES
+5,Process,6,Process,DISTRIBUTES
+6,Process,7,Process,DELIVERS
+7,Process,10,Process,RETURNS
+10,Process,9,Process,RECLAIMS
+9,Process,2,Process,FEEDS
+5,Process,8,Process,TRACKED_BY
+9,Process,8,Process,TRACKED_BY

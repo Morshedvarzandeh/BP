@@ -1,0 +1,11 @@
+id,label,name
+1,Process,Mining and Extraction
+2,Process,Material Refinement and Processing
+3,Process,Cell Component Production
+4,Process,Cell Manufacturing
+5,Process,Battery Pack Assembly
+6,Process,Distribution and Logistics
+7,Process,Integration and End-Use
+8,Process,Battery Passport Compliance and Tracking
+9,Process,Recycling and Material Recovery
+10,Process,Second Life Use and Repurposing
