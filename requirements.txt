@@ -1,0 +1,2 @@
+pandas
+neo4j>=5.17
