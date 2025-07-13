@@ -1,4 +1,4 @@
-id,name,label
+id:ID,name:STRING,:LABEL
 1,Mining and Extraction,Process
 2,Material Refinement and Processing,Process
 3,Cell Component Production,Process
