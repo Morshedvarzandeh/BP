@@ -1,11 +1,37 @@
-id:ID,name:STRING,:LABEL
-1,Mining and Extraction,Process
-2,Material Refinement and Processing,Process
-3,Cell Component Production,Process
-4,Cell Manufacturing,Process
-5,Battery Pack Assembly,Process
-6,Distribution and Logistics,Process
-7,Integration and End-Use,Process
-8,Battery Passport Compliance and Tracking,Process
-9,Recycling and Material Recovery,Process
-10,Second Life Use and Repurposing,Process
+id,label,type,city,country,latitude,longitude,stage,function
+Glencore,Glencore,Company,Baar,Switzerland,47.1970,8.5233,Established,Mining and Extraction
+Albemarle,Albemarle (Germany),Company,Langelsheim,Germany,51.9377,10.3328,Established,Material Refinement and Processing
+SQM,SQM,Company,Santiago,Chile,-33.4489,-70.6693,Established,Mining and Extraction
+Ganfeng Lithium,Ganfeng Lithium,Company,Xinyu,China,27.8043,114.9333,Established,Material Refinement and Processing
+Pilbara Minerals,Pilbara Minerals,Company,Perth,Australia,-31.9522,115.8614,Emerging,Mining and Extraction
+Vulcan Energy,Vulcan Energy Resources,Company,Karlsruhe,Germany,49.0069,8.4037,Emerging,Material Refinement and Processing
+Umicore,Umicore,Company,Brussels,Belgium,50.8503,4.3517,Established,Material Refinement and Processing
+BASF,BASF,Company,Ludwigshafen,Germany,49.4875,8.4446,Established,Cell Component Production
+GEM Co.,GEM Co. Ltd.,Company,Shenzhen,China,22.5431,114.0579,Established,Recycling and Material Recovery
+POSCO Future M,POSCO Future M,Company,Pohang,South Korea,36.0194,129.3435,Established,Cell Component Production
+Northvolt,Northvolt,Company,Stockholm,Sweden,59.3293,18.0686,Emerging,Cell Manufacturing
+FREYR Battery,FREYR Battery,Company,Austin,USA,30.2672,-97.7431,Emerging,Cell Manufacturing
+CATL (China),CATL (China),Company,Ningde,China,26.6656,119.5479,Established,Cell Manufacturing
+CATL,CATL (Germany),Company,Erfurt,Germany,50.9778,11.0289,Established,Cell Manufacturing
+LG Energy Solution (Korea),LG Energy Solution (Korea),Company,Seoul,South Korea,37.5665,126.9780,Established,Cell Manufacturing
+LG Energy Solution,LG Energy Solution (Poland),Company,Wrocław,Poland,51.1079,17.0385,Established,Cell Manufacturing
+Samsung SDI,Samsung SDI (Hungary),Company,Göd,Hungary,47.6942,19.1401,Established,Cell Manufacturing
+SK On,SK On (USA),Company,Commerce,USA,34.2040,-83.4571,Established,Cell Manufacturing
+Panasonic Energy,Panasonic Energy,Company,Osaka,Japan,34.6937,135.5023,Established,Cell Manufacturing
+BYD,BYD,Company,Shenzhen,China,22.5431,114.0579,Established,Integration and End-Use
+ACC,Automotive Cells Company (ACC),Company,Paris,France,48.8566,2.3522,Emerging,Cell Manufacturing
+Envision AESC,Envision AESC,Company,Yokohama,Japan,35.4437,139.6380,Established,Cell Manufacturing
+SVolt,SVOLT Energy Technology,Company,Changzhou,China,31.7736,119.9540,Emerging,Cell Manufacturing
+Volkswagen,Volkswagen AG,Company,Wolfsburg,Germany,52.4239,10.7852,Established,Integration and End-Use
+Tesla,Tesla Inc.,Company,Austin,USA,30.2672,-97.7431,Established,Integration and End-Use
+General Motors,General Motors,Company,Detroit,USA,42.3314,-83.0457,Established,Integration and End-Use
+Enel X,Enel X,Company,Rome,Italy,41.9028,12.4964,Established,Second Life Use and Repurposing
+Connected Energy,Connected Energy,Company,Newcastle upon Tyne,UK,54.9783,-1.6178,Emerging,Second Life Use and Repurposing
+B2U Storage,B2U Storage Solutions,Company,Los Angeles,USA,34.0522,-118.2437,Emerging,Second Life Use and Repurposing
+4R Energy,4R Energy Corporation,Company,Namie,Japan,37.4833,141.0000,Emerging,Second Life Use and Repurposing
+BeePlanet,BeePlanet Factory,Company,Pamplona,Spain,42.8125,-1.6456,Emerging,Second Life Use and Repurposing
+Fortum,Fortum,Company,Espoo,Finland,60.2055,24.6559,Established,Recycling and Material Recovery
+Redwood Materials,Redwood Materials,Company,Carson City,USA,39.1638,-119.7674,Emerging,Recycling and Material Recovery
+Li-Cycle,Li-Cycle,Company,Toronto,Canada,43.6532,-79.3832,Emerging,Recycling and Material Recovery
+EU Battery Regulation,EU Battery Regulation 2023/1542,Regulation,Brussels,Belgium,50.8503,4.3517,N/A,Regulation
+Inflation Reduction Act,US Inflation Reduction Act 2022,Regulation,Washington,USA,38.9072,-77.0369,N/A,Regulation
