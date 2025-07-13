@@ -1,4 +1,4 @@
-start_id,end_id,type
+:START_ID,:END_ID,:TYPE
 1,2,SUPPLIES
 2,3,PROCESSES
 3,4,SENDS_TO
