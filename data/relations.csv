@@ -1,12 +1,10 @@
-:START_ID,:END_ID,:TYPE
-1,2,SUPPLIES
-2,3,PROCESSES
-3,4,SENDS_TO
-4,5,ASSEMBLES
-5,6,DISTRIBUTES
-6,7,DELIVERS
-7,10,RETURNS
-10,9,RECLAIMS
-9,2,FEEDS
-5,8,TRACKED_BY
-9,8,TRACKED_BY
+source,target,type,material,quantity_tons_per_year,source_location
+Glencore,Umicore,SUPPLIES,Cobalt Hydroxide,5000,DRC
+Vulcan Energy,Northvolt,SUPPLIES,Lithium Hydroxide,10000,Germany
+BASF,Volkswagen,SUPPLIES,Cathode Materials,20000,Germany
+LG Energy Solution,Volkswagen,SUPPLIES,Battery Cells,1500000,Poland
+Albemarle,CATL,SUPPLIES,Lithium,8000,Germany
+Northvolt,EU Battery Regulation,AFFECTED_BY,,,
+Umicore,EU Battery Regulation,AFFECTED_BY,,,
+Volkswagen,EU Battery Regulation,AFFECTED_BY,,,
+Tesla,Inflation Reduction Act,AFFECTED_BY,,,
